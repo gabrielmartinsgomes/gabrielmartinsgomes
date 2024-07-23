@@ -2,8 +2,8 @@
  <h2 align="center" style="color: #e83d84;">Get to know a little about me.</h2>
 
 <div align="center">
-  <a href="https://github.com/LuizBlume">
-    <img width="430" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuizBlume&layout=compact&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be" />
+  <a href="https://github.com/gabrielmartinsgomes">
+    <img width="430" style="vertical-align: middle;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartinsgomes&layout=compact&bg_color=141424&title_color=22A7F0&text_color=8ef5fa&icon_color=2596be" />
   </a>
 </div>
 
@@ -42,8 +42,8 @@
 </div>
 <div align="center">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=35&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/LuizBlume)
-<p><img src="https://profile-counter.glitch.me/{LuizBlume}/count.svg" /></p> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=19B5FE&size=35&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/gabrielmartinsgomes)
+<p><img src="https://profile-counter.glitch.me/{gabrielmartinsgomes}/count.svg" /></p> 
 
 </div>
 
