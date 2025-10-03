@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou o Gbi
 
 💻 Estudante de Informática no IFC Araquari  
-⚡ Apaixonado por programação, design e tecnologia  
-🎨 Curto unir **código + criatividade** (Vue.js, Django, Figma...)  
+🎨 Curto garotas de franjinha 
 ⚽ Futebol, anime e música também fazem parte do meu dia a dia  
 
 ---
@@ -18,17 +17,16 @@
 ## 📊 Estatísticas do GitHub
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gabrielmartinsgomes&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmartinsgomes&layout=compact&theme=radical)
 
 </div>
 
 ---
 
 ## 📫 Como me encontrar
-- 📧 Email: seuemail@exemplo.com
-- 🌐 LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-perfil)
-- 🎨 Figma: [Seu Portfólio](https://www.figma.com/@seuuser)
+- 📧 Email: gabrielhenrickmartind3454@gmail.com
+- 🌐 LinkedIn: Gabriel Henrick Martins Gomes (https://www.linkedin.com/in/gabrielhenrickmartinsgomes)
 
 ---
 
